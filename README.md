@@ -1,0 +1,1 @@
+corova-plugin-gli-iap
